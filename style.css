@@ -22,19 +22,4 @@ body {
 }
 
 .subtitol {
-  color: #64748b;
-}
-
-ul {
-  text-align: left;
-}
-
-.boto {
-  display: inline-block;
-  padding: 10px 20px;
-  background: #2563eb;
-  color: white;
-  border-radius: 8px;
-  text-decoration: none;
-}
 
